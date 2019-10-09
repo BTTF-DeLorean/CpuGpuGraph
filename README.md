@@ -17,8 +17,8 @@ Used in this app:
 Download the binary or the Visual Studio solution if you are interested. Have fun.
 
 ### License ###
-.
-Copyright (C) 2016  Jan Arnold
+
+Copyright (C) 2016 
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
